@@ -5,5 +5,5 @@ I'm looking for full-time Data Analyst/Business Intelligence Analyst roles and a
 
 **What I work with:** SQL · Python (pandas, scikit-learn) · Excel & VBA · data visualization (RStudio, Tableau, Power BI)
 
-**Recent experience:** building automated, dynamically updating reports from multi-table SQL queries,
-and cleaning and structuring large supplier datasets.
+**Recent experience:** building automated, dynamically updating reports from multi-table SQL queries, machine learning with Python and RStudio,
+data mining, data visualization
